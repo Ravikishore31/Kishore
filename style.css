@@ -287,7 +287,7 @@ main .post-content .post-title a{
 
 footer.footer .rights{
     justify-content: center;
-    font-family: var(--Josefin);
+    font-family: 'Lexend Deca';
 }
 
 @media only screen and (max-width: 1130px){
